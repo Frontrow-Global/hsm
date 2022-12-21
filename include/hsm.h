@@ -13,6 +13,7 @@
 #include <cstdarg>
 #include <functional>
 #include <memory>
+#include <string>
 
 #pragma once
 #ifndef __HSM_H__
